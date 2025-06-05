@@ -102,13 +102,13 @@
         <mxCell id="S_dY2xMIcpg-6XYuu0yD-27" value="ESB Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1015" y="100" width="100" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="S_dY2xMIcpg-6XYuu0yD-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5K6jLp8h9VaGMAMTurrs-12" target="5K6jLp8h9VaGMAMTurrs-18">
+        <mxCell id="S_dY2xMIcpg-6XYuu0yD-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5K6jLp8h9VaGMAMTurrs-12" target="5K6jLp8h9VaGMAMTurrs-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="390" as="sourcePoint" />
             <mxPoint x="620" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_dY2xMIcpg-6XYuu0yD-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5K6jLp8h9VaGMAMTurrs-12" target="5K6jLp8h9VaGMAMTurrs-18">
+        <mxCell id="S_dY2xMIcpg-6XYuu0yD-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5K6jLp8h9VaGMAMTurrs-12" target="5K6jLp8h9VaGMAMTurrs-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="390" as="sourcePoint" />
             <mxPoint x="620" y="340" as="targetPoint" />
