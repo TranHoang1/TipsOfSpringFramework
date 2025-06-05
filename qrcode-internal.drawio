@@ -99,7 +99,7 @@
             <mxPoint x="620" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_dY2xMIcpg-6XYuu0yD-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S_dY2xMIcpg-6XYuu0yD-27" value="ESB Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1015" y="100" width="100" height="430" as="geometry" />
         </mxCell>
       </root>
