@@ -29,7 +29,7 @@
           <mxGeometry x="220" y="240" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5K6jLp8h9VaGMAMTurrs-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="5K6jLp8h9VaGMAMTurrs-6">
-          <mxGeometry x="101" y="440" width="280" height="60" as="geometry" />
+          <mxGeometry x="160" y="450" width="221" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5K6jLp8h9VaGMAMTurrs-8" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.privatelink;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="70" height="70.75" as="geometry" />
