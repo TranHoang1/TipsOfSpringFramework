@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Trang-1" id="R4oqzyJV968WefpUOXtY">
-    <mxGraphModel dx="630" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="iCxjgGP9DVRDZ0aQ62JW-35" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="iCxjgGP9DVRDZ0aQ62JW-5">
           <mxGeometry x="855" y="390" width="70.83" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="iCxjgGP9DVRDZ0aQ62JW-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iCxjgGP9DVRDZ0aQ62JW-5" source="iCxjgGP9DVRDZ0aQ62JW-15" target="iCxjgGP9DVRDZ0aQ62JW-10">
+        <mxCell id="iCxjgGP9DVRDZ0aQ62JW-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="iCxjgGP9DVRDZ0aQ62JW-5" source="iCxjgGP9DVRDZ0aQ62JW-15" target="iCxjgGP9DVRDZ0aQ62JW-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="240" as="sourcePoint" />
             <mxPoint x="475" y="190" as="targetPoint" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCxjgGP9DVRDZ0aQ62JW-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="iCxjgGP9DVRDZ0aQ62JW-5" source="iCxjgGP9DVRDZ0aQ62JW-15" target="iCxjgGP9DVRDZ0aQ62JW-11">
+        <mxCell id="iCxjgGP9DVRDZ0aQ62JW-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="iCxjgGP9DVRDZ0aQ62JW-5" source="iCxjgGP9DVRDZ0aQ62JW-15" target="iCxjgGP9DVRDZ0aQ62JW-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="132" as="sourcePoint" />
             <mxPoint x="665" y="218" as="targetPoint" />
